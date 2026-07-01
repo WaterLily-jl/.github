@@ -1,10 +1,14 @@
 # WaterLily
 
-A simple and fast fluid simulator written in pure Julia.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WaterLily-jl/WaterLily.jl/master/assets/julia.gif" width="360">
+</p>
 
-## Projects
+The WaterLily-jl organization consists of a core incompressible flow solver and some companion packages to simulate unsteady incompressible flows on Cartesian meshes with complex immersed geometries.
 
-* [WaterLily.jl](https://github.com/WaterLily-jl/WaterLily.jl), the main incompressible flow solver with documentation, examples, and the core WaterLily API.
+## Main projects
+
+* [WaterLily.jl](https://github.com/WaterLily-jl/WaterLily.jl), an immersed-boundary incompressible flow solver that is fast and runs on any architecture (CPU, GPU).
 * [LilyPad.jl](https://github.com/WaterLily-jl/LilyPad.jl), a semi-Lagrangian momentum-step variant of WaterLily for real-time simulations.
 
 ## Repositories for geometry, boundary conditions, and visualization
@@ -28,4 +32,3 @@ A simple and fast fluid simulator written in pure Julia.
 ## Community
 
 * [WaterLily documentation](https://WaterLily-jl.github.io/WaterLily.jl/dev/), the main documentation site for the solver.
-* [.github](https://github.com/WaterLily-jl/.github), the organisation profile and shared community files for WaterLily.
