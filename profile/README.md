@@ -5,7 +5,6 @@ A simple and fast fluid simulator written in pure Julia.
 ## Projects
 
 * [WaterLily.jl](https://github.com/WaterLily-jl/WaterLily.jl), the main incompressible flow solver with documentation, examples, and the core WaterLily API.
-* [GeometricMultigrid.jl](https://github.com/WaterLily-jl/GeometricMultigrid.jl), the geometric multigrid library used to solve the pressure Poisson problem efficiently.
 * [LilyPad.jl](https://github.com/WaterLily-jl/LilyPad.jl), a semi-Lagrangian momentum-step variant of WaterLily for real-time simulations.
 
 ## Repositories for geometry, boundary conditions, and visualization
