@@ -23,6 +23,7 @@ The WaterLily-jl organization consists of a core incompressible flow solver and 
 * [WaterLily-Examples](https://github.com/WaterLily-jl/WaterLily-Examples), tutorial files, example simulations, and notebooks for getting started with WaterLily.
 * [WaterLily-Workshop](https://github.com/WaterLily-jl/WaterLily-Workshop), workshop material and DelftBlue setup notes for hands-on WaterLily sessions.
 * [WaterLily-Benchmarks](https://github.com/WaterLily-jl/WaterLily-Benchmarks), the automated benchmark suite used to compare WaterLily performance across changes and backends.
+* [WaterLily-Benchmarks-data](https://github.com/WaterLily-jl/WaterLily-Benchmarks-data), raw data of WaterLily-Benchmarks studies reported in issues, PRs or papers.
 
 ## Repositories for papers and talks
 
