@@ -17,7 +17,8 @@ The WaterLily-jl organization consists of a core incompressible flow solver and 
 * [WaterLilyMeshBodies.jl](https://github.com/WaterLily-jl/WaterLilyMeshBodies.jl), tools to import mesh-defined geometries into WaterLily.
 * [BiotSavartBCs.jl](https://github.com/WaterLily-jl/BiotSavartBCs.jl), external-flow boundary conditions for WaterLily based on fast Biot-Savart approximations.
 * [Pathlines.jl](https://github.com/WaterLily-jl/Pathlines.jl), pathline visualization tools for WaterLily simulations.
-
+* [WaterLilyNarrowBand.jl](https://github.com/WaterLily-jl/WaterLilyNarrowBand.jl), measure moving bodies faster using a narrow band around their surface.
+  
 ## Repositories for examples, tutorials, and performance
 
 * [WaterLily-Examples](https://github.com/WaterLily-jl/WaterLily-Examples), tutorial files, example simulations, and notebooks for getting started with WaterLily.
