@@ -1,7 +1,7 @@
 # WaterLily
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WaterLily-jl/WaterLily.jl/master/assets/julia.gif" width="360">
+  <img src="https://raw.githubusercontent.com/WaterLily-jl/WaterLily.jl/main/assets/julia.gif" width="360">
 </p>
 
 The WaterLily-jl organization consists of a core incompressible flow solver and some companion packages to simulate unsteady incompressible flows on Cartesian meshes with complex immersed geometries.
